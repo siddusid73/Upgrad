@@ -1,5 +1,4 @@
-public class 
-PalindromeWay1 {
+public class PalindromeWay1 {
     public static void main(String[] args) {
         String s = "aabbaa";
         String ans = "";
